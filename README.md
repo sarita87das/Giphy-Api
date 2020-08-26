@@ -7,4 +7,4 @@ This app emphasizes on using an API to fetch the giphy's of all the celebrities/
 # API used:
  "https://api.giphy.com/v1/gifs/search
 
-#  ![demo-gif](link)
+#  ![demo-gif](https://github.com/sarita87das/Giphy-Api/blob/master/giphyAPI.gif)
